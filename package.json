@@ -1,0 +1,7 @@
+{
+  "name": "music",
+  "dependencies": {
+    "iconv": "^2.1.4",
+    "id3-writer": "^1.2.0"
+  }
+}
